@@ -2,6 +2,8 @@
 
 A maze solving script using Q-learning algorithm to train agents to navigate through randomly generated mazes.
 
+Note: The training data CSV file can be hefty on your devices storage.
+
 ## Table of Contents
 
 - [Features](#features)
