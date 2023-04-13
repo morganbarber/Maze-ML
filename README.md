@@ -4,6 +4,8 @@ A maze solving script using Q-learning algorithm to train agents to navigate thr
 
 Note: The training data CSV file can be hefty on your devices storage.
 
+I will turn this into a deep learning model soon.
+
 ## Table of Contents
 
 - [Features](#features)
